@@ -1,1 +1,1 @@
-# trendall-project
+# Trendall project
